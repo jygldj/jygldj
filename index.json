@@ -2218,35 +2218,20 @@
 		"bilibili",
 		"renrenmi"
 	],
-	"lives": [
-		{
-			"group": "redirect",
-			"channels": [
+	"lives": [ 
 				{
-					"name": "华数2",
-					"urls": [
-						"proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/华数2.m3u"
+					"name": "直播1","type": 0,
+					"url": [
+						"./lives/4号.txt"
 					]
 				},
 				{
-					"name": "杭州华数",
+					"name": "直播2","type": 0,
 					"urls": [
-						"proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/杭州华数.m3u"
-					]
-				},
-				{
-					"name": "云星日记直播",
-					"urls": [
-						"proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"
-					]
-				},
-				{
-					"name": "本地嗅探器直播",
-					"urls": [
-						"proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"
+						"./lives/5号.txt"
 					]
 				}
-			]
-		}
+			
+		
 	]
 }

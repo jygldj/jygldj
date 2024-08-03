@@ -17,7 +17,7 @@
 		},
 		   {
 			"key": "Local",
-			"name": "本地",
+			"name": "本地文件",
 			"type": 3,
 			"api": "csp_Local",
 			"order_num": 9999

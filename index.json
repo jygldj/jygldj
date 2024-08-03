@@ -6,7 +6,7 @@
 	   "sites" : [
 		{
 			"key": "hipy_js_豆瓣[官]",
-			"name": "豆瓣[官](drpy_t3)",
+			"name": "老王祝亲朋好友观影愉快。今日推荐：海天雄鹰",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,

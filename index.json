@@ -4,7 +4,6 @@
   "homeLogo": "./img/logo500x200-1.png",
   "spider": "./pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
   "sites": [
-    
     {
       "key": "hipy_js_豆瓣[官]",
       "name": "豆瓣[官](jygldj)",

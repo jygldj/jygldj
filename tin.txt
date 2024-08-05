@@ -1,0 +1,148 @@
+{
+  "spider": "./pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
+  "sites": [
+        {
+      "key": "hipy_js_i275听书[听]",
+      "name": "i275听书[听](jygldj)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/i275听书[听].js"
+    },
+    {
+      "key": "hipy_js_ASMR[听]",
+      "name": "ASMR[听](jygldj)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/ASMR[听].js"
+    },
+    {
+      "key": "hipy_js_种子音乐[听]",
+      "name": "种子音乐[听](jygldj)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/种子音乐[听].js"
+    },
+    {
+      "key": "hipy_js_有声绘本网[听]",
+      "name": "有声绘本网[听](jygldj)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/有声绘本网[听].js"
+    },
+    {
+      "key": "hipy_js_清风DJ[听]",
+      "name": "清风DJ[听](jygldj)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/清风DJ[听].js"
+    },
+    {
+      "key": "hipy_js_六月听书[听]",
+      "name": "六月听书[听](jygldj)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/六月听书[听].js"
+    },
+    {
+      "key": "hipy_js_酷我听书[听]",
+      "name": "酷我听书[听](jygldj)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/酷我听书[听].js"
+    },
+    {
+      "key": "hipy_js_广播迷FM[听]",
+      "name": "广播迷FM[听](jygldj)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/广播迷FM[听].js"
+    },
+    {
+      "key": "hipy_js_播客[听]",
+      "name": "播客[听](jygldj)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/播客[听].js"
+    },
+    {
+      "key": "hipy_js_博看听书[听]",
+      "name": "博看听书[听](jygldj)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/博看听书[听].js"
+    },
+    {
+      "key": "hipy_js_爱上你听书网[听]",
+      "name": "爱上你听书网[听](jygldj)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/爱上你听书网[听].js"
+    },
+    {
+      "key": "hipy_js_啊哈DJ[听]",
+      "name": "啊哈DJ[听](jygldj)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/啊哈DJ[听].js"
+    }
+  ],
+  "lives": [{
+      "name": "4号楼",
+      "type": 0,
+      "url": "./lib/4号.txt",
+      "playerType": 2
+    },
+    {
+      "name": "5号",
+      "type": 0,
+      "url": "./lib/5号.txt"
+    }]
+}

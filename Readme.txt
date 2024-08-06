@@ -1,9 +1,0 @@
-内置线路：https://gitee.com/shengfuwang/yscjk/raw/master/jk.json   （固定不变）
-
-修改道长线路，剔出失效链接。拆分为四条线路：1、纯影视线路（jingjian.json),2、动漫（man.txt)  3、音乐小说（tin.txt)  4、tebie影视（se.txt)  5、所有影视(quan.json)
-
-在线地址：1、gitee.com，            https://gitee.com/shengfuwang/yscjk5/raw/master/***.json
-                2、ghproxy.net，        https://ghproxy.net/https://raw.githubusercontent.com/jygldj/jygldj/main/***.json
-               3    三维空间                http://13993792148.free3v.work/jygldj/***.json
-本地：影视仓    clan://localhost/tvbox/index/index.json
-         OK蜂蜜   file://tvbox/****/***.json
